@@ -1,4 +1,4 @@
-**Data synthesis and augmentation**: These techniques are used to create new training data for machine learning models. This can be done by generating synthetic data, or by augmenting existing data with new variations.
+**Shaping Raw Data**: A Journey from Chaos to Clarity.
 
 | Term | Description |
 |---|---|
@@ -11,3 +11,15 @@
 | Data Consolidation | Data consolidation involves combining data from multiple sources into a unified and consistent format. In synthetic data generation, consolidation techniques, such as data warehousing and data marts, are used to create a coherent dataset that can be effectively utilized for training machine learning models. By streamlining the data integration process, consolidation enhances the efficiency and scalability of synthetic data generation pipelines. |
 | Data Merging | Data merging involves combining data from two or more sources into a single dataset. In synthetic data generation, merging techniques, such as record linkage and data matching, are used to integrate real-world data with synthetic data, resulting in more realistic and diverse datasets. This approach is particularly useful for tasks such as data augmentation and domain adaptation, where the goal is to improve the generalizability of machine learning models. |
 | Data Reconciliation | Data reconciliation involves identifying and resolving inconsistencies between different data sources. In synthetic data generation, reconciliation techniques, such as constraint propagation and optimization, are used to ensure the accuracy and reliability of synthetic data. By identifying and correcting errors, researchers can generate high-quality synthetic data that can be used to train robust and reliable machine learning models. |
+
+
+
+| Term | Description |
+|---|---|
+| Primary Data | Data collected firsthand for a specific research purpose. |
+| Secondary Data | Data collected by someone else for a purpose other than the current one. |
+| Qualitative Data | Data that is descriptive in nature, often collected through interviews, observations, or focus groups. |
+| Quantitative Data | Data that is numerical in nature, often collected through surveys, experiments, or statistical analysis. |
+| Structured Data | Data that is organized in a predefined format, such as databases or spreadsheets. |
+| Unstructured Data | Data that is not organized in a predefined format, such as text, images, or audio. |
+| Big Data | Extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions. |
