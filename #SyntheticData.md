@@ -38,10 +38,10 @@ Data reconciliation involves identifying and resolving inconsistencies between d
 
 | Term | Description |
 |---|---|
-| Primary Data | Data collected firsthand for a specific research purpose. |
-| Secondary Data | Data collected by someone else for a purpose other than the current one. |
-| Qualitative Data | Data that is descriptive in nature, often collected through interviews, observations, or focus groups. |
-| Quantitative Data | Data that is numerical in nature, often collected through surveys, experiments, or statistical analysis. |
-| Structured Data | Data that is organized in a predefined format, such as databases or spreadsheets. |
-| Unstructured Data | Data that is not organized in a predefined format, such as text, images, or audio. |
-| Big Data | Extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions. |
+| Primary Data | Data collected firsthand for a specific research purpose. <br><br>**Example**: A researcher conducts interviews with small business owners to understand the challenges they face during economic downturns. The interview transcripts and recordings are primary data.|
+| Secondary Data | Data collected by someone else for a purpose other than the current one. <br><br>**Example**: A market analyst uses census data published by the government to study demographic trends in a particular region. The census data is secondary data for this analysis.|
+| Qualitative Data | Data that is descriptive in nature, often collected through interviews, observations, or focus groups. <br><br>**Example**: Customer reviews of a new smartphone, describing their experiences and opinions about the product features.|
+| Quantitative Data | Data that is numerical in nature, often collected through surveys, experiments, or statistical analysis. <br><br>**Example**: Sales figures for a retail store, showing the number of units sold and revenue generated over a specific period.|
+| Structured Data | Data that is organized in a predefined format, such as databases or spreadsheets. <br><br>**Example**: A company's employee database with fields for name, employee ID, department, and salary.|
+| Unstructured Data | Data that is not organized in a predefined format, such as text, images, or audio. <br><br>**Example**: Social media posts, including text, images, and videos shared by users on platforms like Twitter or Instagram.|
+| Big Data | Extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions. <br><br>**Example**: The data collected by fitness tracking devices, including millions of users' daily steps, heart rates, sleep patterns, and other health metrics.|
