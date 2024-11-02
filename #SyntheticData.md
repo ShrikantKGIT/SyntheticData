@@ -38,7 +38,7 @@ Data reconciliation involves identifying and resolving inconsistencies between d
 
 | Term | Description |
 |---|---|
-| Primary Data | Data collected firsthand for a specific research purpose. <br><br>**Example**: A researcher conducts interviews with small business owners to understand the challenges they face during economic downturns. The interview transcripts and recordings are primary data.|
+| Primary Data | Data collected firsthand for a specific research purpose. <br><br>**Example**: A researcher conducts interviews with small business owners to understand the challenges they face during economic downturns. The interview transcripts and recordings are primary data. <br><br> ![image text](https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png)|
 | Secondary Data | Data collected by someone else for a purpose other than the current one. <br><br>**Example**: A market analyst uses census data published by the government to study demographic trends in a particular region. The census data is secondary data for this analysis.|
 | Qualitative Data | Data that is descriptive in nature, often collected through interviews, observations, or focus groups. <br><br>**Example**: Customer reviews of a new smartphone, describing their experiences and opinions about the product features.|
 | Quantitative Data | Data that is numerical in nature, often collected through surveys, experiments, or statistical analysis. <br><br>**Example**: Sales figures for a retail store, showing the number of units sold and revenue generated over a specific period.|
