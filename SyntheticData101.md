@@ -38,6 +38,7 @@ Massachusetts Institute of Technology (MIT): MIT's Computer Science and Artifici
 
 
 Stanford University: Stanford's Human-Centered AI Institute [HAI](https://stanmed.stanford.edu/generative-ai-synthetic-data-promise/) is exploring the ethical implications of synthetic data and its potential to amplify biases.
+Generative AI is used to create realistic, artificial data that can be used to train AI models, visualize complex medical scenarios, and accelerate drug discovery. While synthetic data offers promising benefits, it's crucial to address potential risks like overreliance on AI and the perpetuation of biases. The university emphasizes the need for careful consideration of ethical implications and responsible use of this technology.
 
 
 Harvard University: Harvard's Center for Research on Computation and Society is investigating the use of synthetic data for privacy-preserving machine learning.
