@@ -34,8 +34,10 @@ Research and Development at Top Universities
 
 Several top universities are actively researching and developing synthetic data technologies. Here are some notable examples:   
 
-Massachusetts Institute of Technology (MIT): MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) is conducting research on generative models for synthetic data generation.
+Massachusetts Institute of Technology (MIT): MIT's Computer Science and Artificial Intelligence Laboratory [CSAIL](https://news.mit.edu/2023/synthetic-imagery-sets-new-bar-ai-training-efficiency-1120#:~:text=MIT%20CSAIL%20researchers%20innovate%20with,and%20bias%2Dreduced%20machine%20learning.) is conducting research on generative models for synthetic data generation.
 
+
+Stanford University: Stanford's Human-Centered AI Institute is exploring the ethical implications of synthetic data and its potential to amplify biases.
 
 
 ## Why Synthetic Data? ##
