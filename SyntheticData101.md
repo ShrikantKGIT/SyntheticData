@@ -40,6 +40,14 @@ Massachusetts Institute of Technology (MIT): MIT's Computer Science and Artifici
 Stanford University: Stanford's Human-Centered AI Institute [HAI](https://stanmed.stanford.edu/generative-ai-synthetic-data-promise/) is exploring the ethical implications of synthetic data and its potential to amplify biases.
 
 
+Harvard University: Harvard's Center for Research on Computation and Society is investigating the use of synthetic data for privacy-preserving machine learning.
+
+Carnegie Mellon University (CMU): CMU's Machine Learning Department is developing advanced techniques for generating high-quality synthetic data.
+
+University of California, Berkeley: UC Berkeley's Artificial Intelligence Research Lab is working on synthetic data generation for computer vision and natural language processing.
+
+Princeton University: Princeton's Computer Science Department is exploring the use of synthetic data for improving the fairness and robustness of machine learning models.
+
 ## Why Synthetic Data? ##
 
 ## Benefits of Synthetic Data ##
